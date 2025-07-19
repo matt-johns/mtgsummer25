@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/mtgsummer25/static/css/main.a1e95c21.css",
-    "main.js": "/mtgsummer25/static/js/main.749362d8.js",
+    "main.css": "/mtgsummer25/static/css/main.53c63eb6.css",
+    "main.js": "/mtgsummer25/static/js/main.d58ea30f.js",
     "static/js/105.e5b0a655.chunk.js": "/mtgsummer25/static/js/105.e5b0a655.chunk.js",
     "static/media/castlestairs.png": "/mtgsummer25/static/media/castlestairs.5b653bbba07c0063f405.png",
     "static/media/island2.jpg": "/mtgsummer25/static/media/island2.cf4880aa657bfb1c6302.jpg",
     "static/media/karlov.jpg": "/mtgsummer25/static/media/karlov.d52f3967eb76a78b8980.jpg",
     "static/media/goreclaw.jpg": "/mtgsummer25/static/media/goreclaw.412a95ce868338541410.jpg",
     "static/media/ivy.jpg": "/mtgsummer25/static/media/ivy.cadb1a2ebc8969a9df42.jpg",
+    "static/media/braids.jpg": "/mtgsummer25/static/media/braids.467f17320d8ce433178e.jpg",
     "index.html": "/mtgsummer25/index.html",
-    "main.a1e95c21.css.map": "/mtgsummer25/static/css/main.a1e95c21.css.map",
-    "main.749362d8.js.map": "/mtgsummer25/static/js/main.749362d8.js.map",
+    "main.53c63eb6.css.map": "/mtgsummer25/static/css/main.53c63eb6.css.map",
+    "main.d58ea30f.js.map": "/mtgsummer25/static/js/main.d58ea30f.js.map",
     "105.e5b0a655.chunk.js.map": "/mtgsummer25/static/js/105.e5b0a655.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1e95c21.css",
-    "static/js/main.749362d8.js"
+    "static/css/main.53c63eb6.css",
+    "static/js/main.d58ea30f.js"
   ]
 }
